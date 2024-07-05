@@ -1,3 +1,5 @@
-<?php echo "<h1>my respository</h1>"
-      echo "<h1>My name is Arcana</h1>"
+<?php echo "<h1>หน้าหลัก</h1>"
+      echo "<h1>สินค้า</h1>"
+      echo "<h1>อะไรว่ะ</h1>"
+      echo "<h1>ไม่รู้โว้ย</h1>"
     ?> 
